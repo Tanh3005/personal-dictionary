@@ -1,0 +1,318 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Hello",
+      "wordType": "Interjection, noun",
+      "transcription": "/həˈləu/",
+      "definition": "Xin chào",
+      "example": "Hello, how are you?",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "id": 2,
+      "word": "Goodbye",
+      "wordType": "Interjection, noun",
+      "transcription": "",
+      "definition": "Tạm biệt",
+      "example": "Goodbye, see you soon",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "id": 3,
+      "word": "Thank",
+      "wordType": "Verb",
+      "transcription": "/θӕŋk/",
+      "definition": "Cảm ơn",
+      "example": "Thank you (very much) for your present",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "id": 4,
+      "word": "Please",
+      "wordType": "Verb",
+      "transcription": "/pliːz/",
+      "definition": "Làm ơn",
+      "example": "Please call me",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "id": 5,
+      "word": "Sorry",
+      "wordType": "Adjective",
+      "transcription": "/ˈsori/",
+      "definition": "Xin lỗi",
+      "example": "I’m sorry (that) I forgot to return your book",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "id": 6,
+      "word": "Yes",
+      "wordType": "Interjection",
+      "transcription": "/jes/",
+      "definition": "Có",
+      "example": "Yes, I am",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "id": 7,
+      "word": "No",
+      "wordType": "Adjective",
+      "transcription": "/nəu/",
+      "definition": "Không",
+      "example": "He is no better at golf than swimming",
+      "status": 0,
+      "accId": 1
+    },
+    {
+      "id": 8,
+      "word": "Help",
+      "wordType": "Verb",
+      "transcription": "/help/",
+      "definition": "Giúp đỡ",
+      "example": "Help me",
+      "status": 1,
+      "accId": 5
+    },
+    {
+      "id": 9,
+      "word": "Excuse",
+      "wordType": "Verb",
+      "transcription": "/ɪkˈskjuːz/",
+      "definition": "Thứ lỗi",
+      "example": "Excuse me",
+      "status": 0,
+      "accId": 5
+    },
+    {
+      "id": 10,
+      "word": "Welcome",
+      "wordType": "Verb",
+      "transcription": "/ˈwel.kəm/",
+      "definition": "Chào mừng",
+      "example": "Welcome to the team",
+      "status": 1,
+      "accId": 1
+    },
+    {
+      "word": "Bad",
+      "wordType": "Adjective",
+      "transcription": "/bӕd/",
+      "definition": "Xấu/ Dở/ Tồi",
+      "example": "He is a bad driver",
+      "status": 0,
+      "id": 11,
+      "accId": 5
+    },
+    {
+      "word": "Old",
+      "wordType": "Adjective",
+      "transcription": "/əuld/",
+      "definition": "Cũ",
+      "example": "He is too old to live alone.",
+      "status": 0,
+      "id": 12,
+      "accId": 1
+    },
+    {
+      "word": "New",
+      "wordType": "Adjective",
+      "transcription": "/njuː/",
+      "definition": "Mới",
+      "example": "She is wearing a new dress.",
+      "status": 1,
+      "id": 13,
+      "accId": 5
+    },
+    {
+      "word": "High",
+      "wordType": "Adjective",
+      "transcription": "/hai/",
+      "definition": "Cao",
+      "example": "A high mountain.",
+      "status": 1,
+      "id": 14,
+      "accId": 5
+    },
+    {
+      "word": "Minh Anh",
+      "wordType": "Verb",
+      "transcription": "/minh anh/",
+      "definition": "Minh Anh",
+      "example": "Minh Anh",
+      "status": 1,
+      "id": 15
+    },
+    {
+      "word": "Graphic",
+      "wordType": "Adjective",
+      "transcription": "",
+      "definition": "Đồ họa",
+      "example": "A graphic description of the accident.",
+      "status": 0,
+      "id": 16
+    },
+    {
+      "word": "Design",
+      "wordType": "Verb",
+      "transcription": "/diˈzain/",
+      "definition": "Thiết kế",
+      "example": "A famous architect designed this building.",
+      "status": 1,
+      "id": 17
+    },
+    {
+      "word": "Interior",
+      "wordType": "Adjective",
+      "transcription": "/inˈtiəriə/",
+      "definition": "Nội thất",
+      "example": "The interior walls of a building.",
+      "status": 1,
+      "id": 18
+    },
+    {
+      "word": "Decorator",
+      "wordType": "Noun",
+      "transcription": "",
+      "definition": "Người trang trí",
+      "example": "He was a painter and decorator by trade.",
+      "status": 1,
+      "id": 19
+    },
+    {
+      "word": "Person",
+      "wordType": "Noun",
+      "transcription": "/ˈpəːsn/",
+      "definition": "Người",
+      "example": "Some people are never satisfied.",
+      "status": 1,
+      "id": 20
+    },
+    {
+      "word": "Dog",
+      "wordType": "Noun",
+      "transcription": "/doɡ/",
+      "definition": "Chó",
+      "example": "It’s time to take the dog for a walk.",
+      "status": 0,
+      "id": 21
+    },
+    {
+      "word": "Cat",
+      "wordType": "Noun",
+      "transcription": "/kӕt/",
+      "definition": "Mèo",
+      "example": "The big cats.",
+      "status": 1,
+      "id": 22
+    },
+    {
+      "word": "Small",
+      "wordType": "Adjective",
+      "transcription": "/smoːl/",
+      "definition": "Nhỏ",
+      "example": "She was accompanied by a small boy of about six.",
+      "status": 1,
+      "id": 23
+    },
+    {
+      "word": "Large",
+      "wordType": "Adjective",
+      "transcription": "/ˈlaːdʒ/",
+      "definition": "Lớn",
+      "example": "A large number of people",
+      "status": 0,
+      "id": 24
+    },
+    {
+      "word": "Bird",
+      "wordType": "Noun",
+      "transcription": "/bəːd/",
+      "definition": "Chim",
+      "example": "A bird’s nest",
+      "status": 1,
+      "id": 25
+    },
+    {
+      "word": "Pig",
+      "wordType": "Noun",
+      "transcription": "pig",
+      "definition": "Lợn",
+      "example": "Lợn",
+      "status": 1,
+      "id": 26
+    }
+  ],
+  "accounts": [
+    {
+      "accId": 1,
+      "username": "admin1",
+      "password": "123456",
+      "name": "Admin1",
+      "gmail": "admin1@gmail.com",
+      "role": 0
+    },
+    {
+      "accId": 2,
+      "username": "admin2",
+      "password": "123456",
+      "name": "Admin2",
+      "gmail": "admin2@gmail.com",
+      "role": 0
+    },
+    {
+      "accId": 3,
+      "username": "tanh3005",
+      "password": "123456",
+      "name": "Tung Anh",
+      "gmail": "nguyentunganh300503@gmail.com",
+      "role": 0
+    },
+    {
+      "accId": 4,
+      "username": "user1",
+      "password": "123456",
+      "name": "User1",
+      "gmail": "user1@gmail.com",
+      "role": 1
+    },
+    {
+      "accId": 5,
+      "username": "tanh",
+      "password": "123456",
+      "name": "Tung Anh",
+      "gmail": "nguyentunganh3005@gmail.com",
+      "role": 1
+    },
+    {
+      "name": "Hiếu",
+      "username": "hieubeo",
+      "gmail": "hieubeo@gmail.com",
+      "password": "123456",
+      "role": 1,
+      "accId": 6
+    },
+    {
+      "name": "Đức",
+      "username": "Ducham",
+      "gmail": "Ducham@gmail.com",
+      "password": "123456",
+      "role": 1,
+      "accId": 7
+    }
+  ],
+  "role": {
+    "0": "admin",
+    "1": "user"
+  },
+  "status": {
+    "0": "pending",
+    "1": "approved"
+  }
+}

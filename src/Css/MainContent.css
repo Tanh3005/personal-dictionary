@@ -1,0 +1,4 @@
+.main-content {
+    padding-top: 80px; /* Đảm bảo đủ không gian cho Header */
+    padding-bottom: 200px; /* Đảm bảo đủ không gian cho Footer */
+}
